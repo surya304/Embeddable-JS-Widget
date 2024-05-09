@@ -16,8 +16,6 @@ if (currentUrl.includes("localtesting") == true) {
 
   final_ip = live_ip;
 
-
-
 }
 
 
@@ -33,7 +31,6 @@ for (var i = 0, l = scripts.length; i < l; i++) {
 
         apiKey = scripts[i].getAttribute('data-id');
         botkey = scripts[i].getAttribute('data-botkey');
-
 
           break;
       }
@@ -526,14 +523,7 @@ setTimeout(() => {
   if (minimizeButton) {
       minimizeButton.addEventListener("click", function () {
           if (chatContainer) {
-              // chatContainer.classList.remove("clicked");
-  
-  
-  
-              // if(is_mobile== true){
-  
-              // }
-  
+            
   
               chatContainer.classList.remove("show");
               chatContainer.classList.add("hide");
