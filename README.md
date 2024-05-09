@@ -1,12 +1,7 @@
 # Embeddable-JS-Widget
- Embeddable Javascript Chat bot widget That Used Shadow Dom Concept 
-
-
-Embedabble Javascript widget 
-
 In this Project I created an embedabble javascript widget that can embedded in any web site 
 
-what's interesting in this template is that It is Developed Using Shadow Dom 
+Embeddable Javascript Chat bot widget That Used Shadow Dom Concept 
 
 Shadow Dom in simpler words is used so that it doesnt conflict with Clients Site perfomance or Clients Site Css if we embed any javascript widget 
 
